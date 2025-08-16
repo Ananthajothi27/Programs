@@ -1,15 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int num1, num2, sum;
-
-    // Input two numbers
-    printf("Enter first number: ");
-    scanf("%d", &num1);
-
-    printf("Enter second number: ");
-    scanf("%d", &num2);
-
+    int num1=3, num2=7, sum;
     // Calculate sum
     sum = num1 + num2;
 
